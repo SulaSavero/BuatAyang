@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;1,900&display=swap');
+*{
+    font-family: 'Poppins',cursive;
+}
 
 body{
     color: azure;
@@ -12,7 +15,7 @@ body{
     font-family: 'Poppins',cursive;
 }
 .greetings > span{
-    font-size: 100px;
+    font-size: 6rem;
     font-weight: 900;
 }
 .greetings > span{
