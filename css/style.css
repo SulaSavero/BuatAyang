@@ -26,7 +26,7 @@ body{
     font-weight: 900;
 }
 .greetings2 > span{
-    animation: glow 5s ease-in-out infinite;
+    animation: glow 2.5s ease-in-out infinite;
 }
 @keyframes glow{
     0%, 100%{
